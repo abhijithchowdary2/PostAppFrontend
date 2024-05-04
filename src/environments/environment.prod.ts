@@ -1,3 +1,4 @@
 export const environment = {
-    production: true
+    production: true,
+    apiUrl: "https://postappbackend-vsd6.onrender.com/api"
 };
